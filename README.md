@@ -6,7 +6,7 @@ By Steven Jaspersen and Gijs Nikkels
 
 ## Introduction
 
-In these trying times collaborative design is harder than ever. Not being able to see your peers face-to-face and to be unable to interact directly with each other is a burden on any design process. We try to elevate this burden by providing a virtual platform to collaborate in during your design process using a protocol for your team's workflow. You should use this workflow after a brainstorm session in your design process to make a concrete concept of the ideas brought forward from the brainstorm session.
+In these trying times collaborative design is harder than ever. Not being able to see your peers face-to-face and to be unable to interact directly with each other is a burden on any design process. We try to alleviate this burden by providing a virtual platform to collaborate in during your design process using a protocol for your team's workflow. You should use this workflow after a brainstorm session in your design process to make a concrete concept of the ideas brought forward from the brainstorm session.
 
 *This guide was written in English to accommodate international exchange students.*
 
