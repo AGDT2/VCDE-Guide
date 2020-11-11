@@ -51,7 +51,7 @@ There are a few requirements to start using this workflow in your team:
   
   6. A color palette, which can be used to dip your brush in for different colors or to quickly swap out the material in your material tip.
 
-![Elements.png](./Images/Elements.png)
+  ![Elements.png](./Images/Elements.png)
 
 * Duplicate these elements for each of your peers with a decent distance between each personal building platform. Now your environment is ready.
 
@@ -63,7 +63,7 @@ There are a few requirements to start using this workflow in your team:
   * The result should be as interactive as possible.
 * When the timer stopped and everyone is ready make sure you save the world to your inventory by going to the "Session" section in the main menu and clicking "Save As...".
 
-![Save.png](./Images/Save.png)
+ ![Save.png](./Images/Save.png)
 
 ### Presenting and reviewing
 
