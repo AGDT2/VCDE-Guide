@@ -57,7 +57,7 @@ There are a few requirements to start using this workflow in your team for each 
 
 ### Start building
 
-* Now that your environment is set up make sure everyone is able to start building their concept on their personal building platform.
+* Now that your environment is set up make sure everyone is able to start building their chosen brainstorm idea on their personal building platform.
 * Start a timer for 10 minutes to create your concept.
   * If this concept is meant to be a VR experience make sure your peers are able to experience your concept as closely as possible to the final product that you have in mind.
   * The result should be as interactive as possible.
