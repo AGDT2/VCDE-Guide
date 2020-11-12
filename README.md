@@ -18,7 +18,7 @@ There are a few requirements to start using this workflow in your team for each 
 * It is highly recommended to use a virtual reality headset with two motion tracked controllers
   * It is possible to use any device capable of running games with a mouse and keyboard in NeosVR, but this will hurt your design experience.
 * A registered [NeosVR account](https://account.neosvr.com/) with a verified email.
-* You preferred idea from the brainstorm session to work on.
+* Your preferred idea from the brainstorm session to work on.
 
 ## Workflow
 
