@@ -12,7 +12,7 @@ In these trying times collaborative design is harder than ever. Not being able t
 
 ## Prerequisites
 
-There are a few requirements to start using this workflow in your team:
+There are a few requirements to start using this workflow in your team for each individual team member:
 
 * [NeosVR](https://store.steampowered.com/app/740250/Neos_VR/), the platform the workflow is based upon.
 * It is highly recommended to use a virtual reality headset with two motion tracked controllers
